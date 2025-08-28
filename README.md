@@ -7,8 +7,8 @@ This project explores the viability of predicting Type II Diabetes using non-cli
 The project workflow includes extensive data preprocessing, feature engineering, and the development and evaluation of four distinct machine learning models: Logistic Regression, Random Forest, XGBoost, and a Dense Neural Network. The findings demonstrate that a Dense Neural Network can achieve a notable F1-score of 0.57 for the diabetic class, highlighting the significant influence of non-clinical factors in assessing diabetes risk.
 
 The analysis is detailed in the following notebooks:
-1.  `EDA_and_Preprocessing.ipynb`: Contains the full exploratory data analysis, data cleaning, and preprocessing steps.
-2.  `Modelling.ipynb`: Contains the implementation and evaluation of all machine learning models.
+1.  `Data_Preprocessing_Traditional_models.ipynb`: Contains the full exploratory data analysis, data cleaning, preprocessing with traditional models.
+2.  `Neural_networks.ipynb`: Contains the implementation of above script with Dense Neural Network.
 
 ---
 
